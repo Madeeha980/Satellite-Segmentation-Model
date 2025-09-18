@@ -1,7 +1,5 @@
 
 
-### `README.md`
-
 # **Satellite Imagery Segmentation**
 
 This repository contains Jupyter notebooks for a **satellite imagery segmentation project**. The project utilizes a **U-Net model** built with **TensorFlow and Keras** to perform **semantic segmentation** on satellite images, classifying pixels into different categories such as buildings, roads, water, and vegetation.
