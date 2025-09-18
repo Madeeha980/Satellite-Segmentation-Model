@@ -1,0 +1,11 @@
+### `requirements.txt`
+
+numpy
+scikit-learn
+matplotlib
+keras
+tensorflow
+wandb
+patchify
+opencv-python
+gradio
